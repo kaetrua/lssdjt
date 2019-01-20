@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_todayInHistory"
+        android:checkable="true"
+        android:icon="@mipmap/ic_history"
+        android:title="历史上的今天" />
+
+    <item
+        android:id="@+id/drawer_like"
+        android:checkable="true"
+        android:icon="@mipmap/ic_unlike"
+        android:title="喜欢" />
+
+
+</menu>
